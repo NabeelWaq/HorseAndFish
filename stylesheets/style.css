@@ -118,7 +118,7 @@ main{
 /* Section 1 */
 #section-1{
     width: 100vw;
-height: calc(100vh - 100px);
+height: 100vh;
 position: relative;
 }
 #section-1 img{
